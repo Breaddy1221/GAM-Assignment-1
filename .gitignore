@@ -1,0 +1,11 @@
+### Implement this git gadget to ignore Default Files occupying the size of commiting
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+*.sln
+*.opensdf
+*.sdf
+*.log
+*.tmp
